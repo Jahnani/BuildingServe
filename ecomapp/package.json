@@ -1,0 +1,27 @@
+{
+  "name": "jahnsugi",
+  "version": "1.0.0",
+  "description": "Building an ecomapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahnani/BuildingServe.git"
+  },
+  "keywords": [
+    "ecomapp",
+    "jahnani"
+  ],
+  "author": "jahnsugii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahnani/BuildingServe/issues"
+  },
+  "homepage": "https://github.com/Jahnani/BuildingServe#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
